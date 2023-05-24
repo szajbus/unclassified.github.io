@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: "pl" }}">
   {%- include head.html -%}
 
-  <body>
+  <body class="page-{{ page.name | replace: '.md', '' }}">
     <main class="page-content" aria-label="Content">
       <div class="wrap">
         {%- include nav.html -%}

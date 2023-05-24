@@ -200,3 +200,19 @@ footer.page-footnote {
   text-align: center;
   font-size: smaller;
 }
+
+.page-about {
+  img {
+    width: 50%;
+
+    &.left {
+      float: left;
+      margin-right: 2rem;
+    }
+
+    &.right {
+      float: right;
+      margin-left: 2rem;
+    }
+  }
+}
