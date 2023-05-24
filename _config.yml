@@ -22,8 +22,8 @@ title: SM.ai
 email: dev@unclassified.ai
 description: >- # this means to ignore newlines until "baseurl:"
   SM.ai - inteligentne przetwarzanie zgłoszeń serwisowych
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/unclassified.github.io" # the subpath of your site, e.g. /blog
+url: "https://szajbus.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
