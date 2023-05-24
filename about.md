@@ -30,7 +30,7 @@ Na obecną chwilę jesteśmy w stanie zaoferować Ci obsługę kontaktów e-mail
 
 ## Jak SM.ai zmienia pracę Contact Center i Service Desk Center?
 
-![](assets/images/about/technology.jpg){:.right}
+![](/assets/images/about/technology.jpg){:.right}
 
 Twoi pracownicy są przeciążeni, nie masz możliwości zatrudnienia większej ilości ludzi, a w dodatku każdy nowo przybyły członek zespołu wymaga przeszkolenia? Nie wspominając już o tym, jak wielka rotacja wśród pracowników jest na porządku dziennym w tej branży.
 
@@ -46,7 +46,7 @@ To Cię nie przekonuje?  Nic dziwnego - w codziennym zalewie informacji spotykas
 
 ## SM.ai - inteligentne przetwarzanie zgłoszeń serwisowych.
 
-![](assets/images/about/employees.jpg){:.left}
+![](/assets/images/about/employees.jpg){:.left}
 
 Sztuczna inteligencja kojarzy nam się czasem z futurystycznymi filmami science fiction, które pokazywały różnego rodzaju scenariusze - dobre i złe - z nią związane. Zapominamy w takich momentach, że sztuczna inteligencja jest już częścią naszego życia i całkiem nieźle radzi sobie w wielu branżach. Możemy ją spotkać w motoryzacji (coraz częściej można usłyszeć o samoprowadzących się samochodach), tłumaczeniach z jednego języka na drugi, sklepach internetowych. Są nawet prywatni, biznesowi asystenci, w rzeczywistości będący sztuczną inteligencją!
 
@@ -56,7 +56,7 @@ Jak to działa?  Możemy wziąć za przykład zdjęcia. Swego czasu naukowcy, kt
 
 ## Przykład
 
-![](assets/images/about/company.jpg){:.right}
+![](/assets/images/about/company.jpg){:.right}
 
 Przy odpowiednio napisanym programie, po pokazaniu komputerowi wielu zdjęć wraz z opisem tego, co się na nich znajduje, możemy sprawić, że w końcu sam zacznie je rozpoznawać. To tak proste - a jednocześnie trudne - ponieważ musimy skądś brać te przykłady. Dlaczego piszemy o tym i w jaki sposób łączy się to z SM.ai? Nasze rozwiązanie też jest oparte o sztuczną inteligencję i codziennie trenuje swoją skuteczność, wciąż stając się lepszym i mądrzejszym o kolejne przykłady. Już teraz jest wytrenowane na tyle dobrze, że może bezbłędnie przypisywać odpowiednie tickety do zgłoszeń wysłanych do Contact Center lub Service Desk Center z maila. Nie ukrywamy, że jesteśmy z tego niezwykle dumni - okazuje się, że oszczędności dla firm, które zdecydowały się zastąpić personel przepisujący otrzymane zgłoszenia sztuczną inteligencją, mogą odzyskać nawet kilkadziesiąt procent budżetu. Budżetu, który można zainwestować w dalszy rozwój firmy. Czekamy też na kolejne współprace, w których SM.ai będzie mogło się wykazać swoimi, nabytymi drogą codziennego treningu, umiejętnościami.
 

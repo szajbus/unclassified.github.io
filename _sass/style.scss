@@ -152,6 +152,16 @@ img {
   &.emoji {
     display: inline;
   }
+
+  &.left {
+    float: left;
+    margin-right: 2rem;
+  }
+
+  &.right {
+    float: right;
+    margin-left: 2rem;
+  }
 }
 
 ol {
@@ -201,18 +211,26 @@ footer.page-footnote {
   font-size: smaller;
 }
 
+.page-index {
+  img {
+    &.home_photo {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+
+  .logos {
+    display: flex;
+    justify-content: space-evenly;
+
+    img {
+      max-width: 40%;
+    }
+  }
+}
+
 .page-about {
   img {
-    width: 50%;
-
-    &.left {
-      float: left;
-      margin-right: 2rem;
-    }
-
-    &.right {
-      float: right;
-      margin-left: 2rem;
-    }
+    max-width: 50%;
   }
 }
