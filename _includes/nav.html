@@ -1,5 +1,5 @@
 <nav>
-  <a class="home" href="/">{{ site.title }}</a>
-  <a href="/about">O Unclassified</a>
-  <a href="/contact">Kontakt</a>
+  <a class="home" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  <a href="{{ '/about' | relative_url }}">O Unclassified</a>
+  <a href="{{ '/contact' | relative_url }}">Kontakt</a>
 </nav>
